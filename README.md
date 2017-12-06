@@ -7,8 +7,7 @@
 </a>
 
 ## Introduction
-
-风格参考 @Ovilia @joyeecheung @lishengzxc
+我的简历是按照@DIYgod的简历项目修改而来，风格借鉴了@pandaApe
 
 ## Usage
 
